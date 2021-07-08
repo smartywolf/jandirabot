@@ -21,6 +21,8 @@ cd jandira
 npm i 
 npm start 
 
+====== LEITURA DO COGIDO QR COM O WHATSAPPWEB 
+
 CONFIGURAR LOOP (ABRIR OUTRA JANELA NO GIT BASH):
 
 npm install pm2
