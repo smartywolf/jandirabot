@@ -17,7 +17,7 @@ Dois números no WhatsApp, um para o dono e outro para a BOT.
 
 INSTALAÇÃO DA BOT NO NPM (GIT BASH):
 
-cd jandira1
+cd jandira
 npm i 
 npm start 
 
