@@ -1,7 +1,7 @@
 # jandirabot
 Bot baseada na I.ris BOT (https://github.com/Ki.llovSky/i.ris/)
 
-CONTATO: 556199811135
+CONTATO: 5561998111135
 
 PRÉ REQUISITOS PARA INSTALAÇÃO(INSTALE TODOS CORRETAMENTE PARA A BOT FUNCIONAR):
 
